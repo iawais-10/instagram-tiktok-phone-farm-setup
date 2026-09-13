@@ -5,11 +5,13 @@
 [![Demo](https://img.shields.io/badge/Watch-Demo_Video-FF0000?logo=youtube&logoColor=white)](https://youtu.be/qghBMPEKXew)
 [![Powered by Appilot](https://img.shields.io/badge/Powered_by-Appilot-5B5BD6)](https://www.appilot.app/)
 
+[![Instagram and TikTok Phone Farm Setup by Appilot](docs/images/appilot-banner.svg)](https://www.appilot.app/)
+
 ## Overview
 
-This project provides a scalable control plane for coordinating Instagram and TikTok workflows across a fleet of physical Android devices. It centralizes device visibility, account scheduling, content operations, geo-tag-based Instagram workflows, and controlled engagement activity in one operational dashboard.
+This Instagram and TikTok phone farm setup provides a scalable control plane for coordinating workflows across a fleet of physical Android devices. It centralizes device visibility, account scheduling, content operations, geo-tag-based Instagram workflows, and controlled engagement activity in one operational dashboard.
 
-The system is designed for authorized marketing workflows in the travel niche, with an emphasis on reliable ADB communication, device-level isolation, observability, and maintainable fleet operations.
+The system supports authorized marketing workflows in the travel niche, with an emphasis on reliable ADB communication, device-level isolation, observability, and maintainable fleet operations.
 
 ## Project goals
 
@@ -80,16 +82,6 @@ flowchart TD
 
 ## Demo
 
-Watch the [Instagram & TikTok phone farm demo](https://youtu.be/qghBMPEKXew).
+Watch the [Instagram and TikTok phone farm setup demo](https://youtu.be/qghBMPEKXew).
 
-## Appilot
-
-Built with the real-device automation capabilities of [Appilot](https://www.appilot.app/).
-
-## Responsible use
-
-Use this system only with accounts and devices you are authorized to manage. Configure workflows to comply with applicable laws and the terms, rate limits, and community policies of Instagram and TikTok.
-
-## Topics
-
-`instagram-automation` · `tiktok-automation` · `android-automation` · `adb` · `device-farm` · `real-device-automation` · `social-media-automation` · `appilot`
+Explore real-device automation at [Appilot](https://www.appilot.app/).
