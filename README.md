@@ -44,31 +44,31 @@ flowchart TD
 
 ### Fleet overview
 
-![Fleet overview dashboard](docs/images/fleet-overview.png)
+![Fleet overview dashboard](docs/images/fleet-overview.jpg)
 
 ### Device inventory
 
-![Connected device inventory](docs/images/device-inventory.png)
+![Connected device inventory](docs/images/device-inventory.jpg)
 
 ### Automation configuration
 
-![Automation configuration screen](docs/images/automation-configuration.png)
+![Automation configuration screen](docs/images/automation-configuration.jpg)
 
 ### Account and run management
 
-![Account and run management](docs/images/account-run-management.png)
+![Account and run management](docs/images/account-run-management.jpg)
 
 ### Account inventory
 
-![Account inventory](docs/images/account-inventory.png)
+![Account inventory](docs/images/account-inventory.jpg)
 
 ### Content library
 
-![Content library](docs/images/content-library.png)
+![Content library](docs/images/content-library.jpg)
 
 ### Live device operations
 
-![Live device operations](docs/images/live-device-operations.png)
+![Live device operations](docs/images/live-device-operations.jpg)
 
 ## Success criteria
 
